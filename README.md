@@ -1,6 +1,6 @@
 # MicrosoftTeamsClone
 
-I made this Microsoft Teams Clone App as a part of Microsoft Engage 2021.
+I made this Microsoft Teams Clone App as a part of Microsoft Engage 2021. It supports the feature of video conferencing and messaging.
 
 You can download and run this app.
 
